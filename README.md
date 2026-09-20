@@ -215,10 +215,7 @@ MIT License — Free for personal and commercial use.
 
 <div align="center">
 
-**Created with ❤️ by [Preatom YT](https://www.youtube.com/@PreatomYTOfficial)**
+**Created with ❤️ by [RongonKairy](https://www.github.com/@RongonKairy)**
 
-Status: **Free Forever 🚀**
-
-[YouTube](https://www.youtube.com/@PreatomYTOfficial) • [Facebook](https://www.facebook.com/preatomyt) • [Instagram](https://www.instagram.com/preatom_yt/) • [X](https://x.com/Preatom_YT) • [Telegram](https://t.me/PreatomYT) • [GitHub](https://github.com/Preatomytofficial)
 
 </div>
