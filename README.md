@@ -159,17 +159,20 @@ window.open("https://instagram.com/alexrivera", "_blank");
 
 ---
 
-## 💡 Roadmap — Coming Soon
+## 💡 Feature
 
-- [ ] 📱 QR Code Generator
-- [ ] 📶 NFC Smart Card Support
-- [ ] 🎨 Multiple Themes + Dark Mode
-- [ ] 📊 Analytics Dashboard
-- [ ] 🌍 Custom Domains
-- [ ] 🔍 SEO Optimization
-- [ ] 👁️ Profile Visitor Tracking
-- [ ] 📇 Downloadable Contact vCard
-- [ ] 🗣️ Multi-Language Support
+- [ ] 📱 Photo & Logo Upload
+- [ ] 📶 13 Social Platforms
+- [ ] 🎨 Custom Backgrounds
+- [ ] 📊 Custom Equipment Links
+- [ ] 🌍 Download & Copy HTML
+- [ ] 🔍 Instant Generation
+- [ ] 👁️ Works Everywhere
+- [ ] 📇 Mobile-First Design
+- [ ] ⛓️‍💥 One-Tap Social Links
+- [ ] 💻 Multiple Templates
+- [ ] 🚫 No Account Needed
+- [ ] ⚛️ Premium Animations
 
 ---
 
