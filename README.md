@@ -80,8 +80,6 @@ Ready in **under 2 minutes**.
 Get your files, host anywhere:
 ```text
 index.html
-style.css
-app.js
 ```
 No subscriptions. No vendor lock-in.
 
