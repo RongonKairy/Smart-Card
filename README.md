@@ -215,7 +215,7 @@ MIT License — Free for personal and commercial use.
 
 <div align="center">
 
-**Created with ❤️ by [RongonKairy](https://www.github.com/@RongonKairy)**
+**Created with ❤️ by [RongonKairy](https://github.com/RongonKairy)**
 
 
 </div>
