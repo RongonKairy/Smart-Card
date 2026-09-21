@@ -123,7 +123,7 @@ Select from professionally designed templates optimized for mobile and desktop.
 Add your name, username, bio, profile photo, logo, and social media accounts.
 
 **Step 3 — Download Your Files**
-Instantly receive `index.html`, `style.css`, and `app.js` — upload them anywhere and go live.
+Instantly receive `index.html` — upload them anywhere and go live.
 
 ---
 
