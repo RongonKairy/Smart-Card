@@ -1,3 +1,4 @@
+<img src="assets/smartcard-thumbnail.png" alt="SmartCard" width="100%" />
 <div align="center">
 
 # 💳 SmartCard
